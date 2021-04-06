@@ -1,0 +1,69 @@
+Class = MobilePhone
+
+Properties
+-ยี่ห้อ
+-ชื่อรุ่น
+-ราคา
+
+มี Feature (method)
+-Phonecall()
+-SMS()
+-InternetSurfing()
+
+
+Class = SamSung Galxy Note 8
+
+Properties
+-ยี่ห้อ
+-ชื่อรุ่น
+-ราคา
+
+มี Feature (method)
+-Phonecall()
+-UserGearVR()
+-TransformToPC()
+-UsePen()
+-GooglePlay()
+
+Class = iPhoneX
+
+Properties
+-ยี่ห้อ
+-ชื่อรุ่น
+-ราคา
+
+มี Feature (method)
+-SMS()
+-InternetSurfing()
+-Phonecall()
+-FaceID()
+-AppStore()
+
+Class = iPhone8
+
+Properties
+-ยี่ห้อ
+-ชื่อรุ่น
+-ราคา
+
+มี Feature (method)
+-Phonecall()
+-SMS()
+-InternetSurfing()
+-TouchID()
+-AppStore()
+
+Class = Samsung Galaxy S8
+
+Properties
+-ยี่ห้อ
+-ชื่อรุ่น
+-ราคา
+
+มี Feature (method)
+-Phonecall()
+-SMS()
+-InternetSurfing()
+-UseGearVR()
+-TransformToPC()
+-GooglePlay()
